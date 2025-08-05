@@ -1,4 +1,4 @@
-# Build a Book Recommender with LLMs 
+# Système de recommandation de livres (Python + LLM)
 
 développement d’un moteur de recommandation de livres intelligent en Python basé sur des modèles de langage (LLM), avec les fonctionnalités suivantes :
 
